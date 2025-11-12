@@ -1,4 +1,5 @@
 // DOM Elements
+// This all section perfectly Generate..!!
 const navbar = document.querySelector(".navbar");
 const navLinks = document.querySelectorAll(".nav-links a");
 const hamburger = document.querySelector(".hamburger");
