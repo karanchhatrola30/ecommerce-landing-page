@@ -69,33 +69,6 @@ const products = [
     image:
       "https://images.unsplash.com/photo-1540221652346-8cc276d8f795?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
   },
-  {
-    id: 7,
-    name: "Elegant Watch",
-    price: "₹5,999",
-    description:
-      "Stainless steel watch with leather strap. Features precise timekeeping and water resistance. A perfect accessory for any occasion.",
-    image:
-      "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-  },
-  {
-    id: 8,
-    name: "Designer Sunglasses",
-    price: "₹2,199",
-    description:
-      "UV protection sunglasses with stylish frames. Lightweight and comfortable for all-day wear. Perfect for sunny days.",
-    image:
-      "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-  },
-  {
-    id: 9,
-    name: "Silk Tie",
-    price: "₹799",
-    description:
-      "Luxurious silk tie with classic patterns. Perfect for formal occasions and business meetings. Adds elegance to any suit.",
-    image:
-      "https://images.unsplash.com/photo-1584917875441-20299ef2b1d5?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-  },
 ];
 
 // Navbar scroll effect
